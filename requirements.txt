@@ -1,0 +1,12 @@
+google-generativeai
+mss 
+opencv-python 
+pytesseract 
+Pillow 
+speechrecognition 
+pyttsx3 
+transformers 
+requests
+pyautogui
+PyAudio
+streamlit
