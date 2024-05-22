@@ -8,7 +8,8 @@ __pycache__/
 
 research.ipynb
 screen_recording.avi
-.streamlit\secrets.toml
+.streamlit/secrets.toml
+
 
 # Distribution / packaging
 .Python
