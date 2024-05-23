@@ -10,3 +10,4 @@ requests
 pyautogui
 PyAudio
 streamlit
+pyttsx3

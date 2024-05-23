@@ -7,6 +7,7 @@ __pycache__/
 *.so
 
 research.ipynb
+audio.wav
 screen_recording.avi
 .streamlit/secrets.toml
 
